@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Share+Tech&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    margin: none;
+}
+
+h1 {
+    font-family: 'Share Tech', sans-serif;
+}
+
 body {
-    font-family: arial;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
 }
