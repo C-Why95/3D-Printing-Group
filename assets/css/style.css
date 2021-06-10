@@ -14,6 +14,10 @@ body {
 
 /* Heading & Logo */
 
+header {
+    text-align: center;
+}
+
 h1, h2 {
     font-family: 'Share Tech', sans-serif;
     text-transform: uppercase;
@@ -22,6 +26,32 @@ h1, h2 {
 }
 
 #logo {
-    text-align: center;
+    display: inline-block;
     font-size: 380%;
+}
+
+/* Navigation Links */
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+#menu li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#menu a {
+    text-decoration: none;
+    color: darkolivegreen;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid blue;
+}
+
+.active {
+    border-bottom: 1px solid darkolivegreen;
 }
