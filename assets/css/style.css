@@ -6,11 +6,22 @@
     margin: none;
 }
 
-h1 {
-    font-family: 'Share Tech', sans-serif;
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
+    color: black;
+}
+
+/* Heading & Logo */
+
+h1, h2 {
+    font-family: 'Share Tech', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: crimson;
+}
+
+#logo {
+    text-align: center;
+    font-size: 380%;
 }
