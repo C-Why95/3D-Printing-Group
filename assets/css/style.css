@@ -12,7 +12,7 @@ body {
     color: black;
 }
 
-/* Heading & Logo */
+/* Heading & logo */
 
 header {
     text-align: center;
@@ -30,11 +30,12 @@ h1, h2 {
     font-size: 380%;
 }
 
-/* Navigation Links */
+/* Navigation links */
 
 #menu {
     font-size: 150%;
     letter-spacing: 4px;
+    word-spacing: 1em;
     text-align: center;
 }
 
@@ -49,17 +50,45 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid darkolivegreen;
 }
 
 .active {
     border-bottom: 1px solid darkolivegreen;
 }
 
-/* Hero Image */
+hr {
+    border: 1px solid crimson;
+    margin-top: 20px;
+}
+
+/* Hero image */
+
+#hero-outer {
+    height: 268px;
+    width: 100%;
+    overflow: hidden;
+}
 
 #hero-image {
-    height: 300px;
+    height: 268px;
     width: 100%;
-    background: url('../images/hero_image.jpg');
+    margin-top: 20px;
+    background: url('../images/hero_image.jpg') no-repeat center center;
+
+    /* zoom effect */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Zoom animation for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
