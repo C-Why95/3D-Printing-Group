@@ -57,7 +57,7 @@ h1, h2 {
     border-bottom: 1px solid darkolivegreen;
 }
 
-hr {
+hr.hr_1{
     border: 6px solid crimson;
     border-radius: 3px;
     margin-top: 20px;
@@ -125,32 +125,63 @@ hr {
 #the-steps {
     height: 600px;
     text-align: center;
+    margin-top: 30px;
 }
 
 #left {
     padding-top: 30px;
     width: 25%;
     float: left;
-    background-color: green;
 }
 
 #middle-left {
     padding-top: 30px;
     width: 25%;
     float: left;
-    background-color: red;
 }
 
 #middle-right {
     padding-top: 30px;
     width: 25%;
     float: right;
-    background-color: blue;
 }
 
 #right {
     padding-top: 30px;
     width: 25%;
     float: right;
-    background-color: yellow;
+}
+
+hr.hr_2 {
+    border-top: 1px solid crimson;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.middle-left-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.middle-right-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.right-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    margin-bottom: 50px;
 }
