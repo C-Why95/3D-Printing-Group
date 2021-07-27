@@ -198,6 +198,22 @@ hr.hr_2 {
     margin-bottom: 50px;
 }
 
+/* The Map */
+
+.mapouter{
+    position:absolute;
+    text-align:right;
+    height:500px;
+    width:1080px;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:1080px;
+}
+
 /* The footer */
 
 footer {
