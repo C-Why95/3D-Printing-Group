@@ -197,3 +197,24 @@ hr.hr_2 {
     line-height: 20px;
     margin-bottom: 50px;
 }
+
+/* The footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 60px;
+    margin: 1%;
+    padding: 5%;
+    color: crimson;
+}
