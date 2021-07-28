@@ -132,7 +132,7 @@ hr.hr_1{
 /* The steps */
 
 #the-steps {
-    height: 600px;
+    height: 350px;
     text-align: center;
     margin-top: 30px;
     margin-left: 30px;
@@ -198,26 +198,26 @@ hr.hr_2 {
     margin-bottom: 50px;
 }
 
-/* The Map */
+/* Upload */
 
-.mapouter{
-    position:absolute;
-    text-align:right;
-    height:500px;
-    width:1080px;
+#upload {
+    margin-top: 30px;
+    text-align: center;
 }
 
-.gmap_canvas {
-    overflow:hidden;
-    background:none!important;
-    height:500px;
-    width:1080px;
+/* The map */
+
+iframe {
+    display: block;
+    border-style: none;
+    margin-bottom: 30px;
 }
 
 /* The footer */
 
 footer {
-    height: 150px;
+    height: 280px;
+    background-color: rgba(153, 0, 0, 0.5);
 }
 
 .social-networks {
@@ -232,5 +232,5 @@ footer {
     font-size: 60px;
     margin: 1%;
     padding: 5%;
-    color: crimson;
+    color: white;
 }
