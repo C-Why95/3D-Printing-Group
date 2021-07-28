@@ -79,11 +79,15 @@
 
     <section id="upload">
         <h1 id="heading_font1">Upload Your Idea</h1>
-        <div>
-
+        <div class="upload-area">
+            <form method="POST" action="http://localhost/upload.py" enctype="multipart/form-data">
+                <input type="file" name="Upload" size="70"> 
+                <br>
+                <input type="submit">
+            </form>
         </div>
-        <div>
-            
+        <div class="outline">
+            <p>Explanation</p>
         </div>
     </section>
 
