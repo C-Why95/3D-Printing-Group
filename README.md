@@ -1,4 +1,4 @@
-3D Printing Group
+# 3D Printing Group
 
 The 3D Printing Group is a site for those who want their models and designs brought to life through the use of 3D-printing, an additive manufacturing process which involves the constant layering of melted plastic in succession. 
 
