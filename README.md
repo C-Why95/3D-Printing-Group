@@ -4,4 +4,5 @@ The 3D Printing Group is a site for those who want their models and designs brou
 
 People can upload their files to this site where they'll then recieve a quote by email (within 24 hours) which outlines the breakdown of cost and delivery charges. This site is mainly targeted at 3D-printing enthusiasts and for those who want their designs and ideas brought to life.
 
-![Front Website](https://user-images.githubusercontent.com/84466534/129002987-c52534b4-e4d1-479a-80e4-3146497b7058.png)
+![Front_Of_Website](https://user-images.githubusercontent.com/84466534/129003461-d027d7fd-480f-4334-bcef-bd31c7db52cc.png)
+
