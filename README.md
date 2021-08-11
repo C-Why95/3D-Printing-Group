@@ -12,9 +12,8 @@ People can upload their files to this site where they'll then recieve a quote by
 
 ![Upload_Area](https://user-images.githubusercontent.com/84466534/129009458-84e37a77-76d6-4be3-b8a3-f70fe763826a.png)
 
-* dfjtyjytk
-* tykrjtdy
-* 
+* Includes a file submit, dropdown menu (for the colors) and contact information blanks for users to upload.
+* The centering of the upload area is not inline with the rest the projects elements. Having tried a number of text align styling, this section would still not center correctly.   
 
 ## Credits
 
