@@ -6,12 +6,23 @@ People can upload their files to this site where they'll then recieve a quote by
 
 ![Front_Of_Website](https://user-images.githubusercontent.com/84466534/129003461-d027d7fd-480f-4334-bcef-bd31c7db52cc.png)
 
+## Website Features
+
+### Upload Your Idea:
+
+![Upload_Area](https://user-images.githubusercontent.com/84466534/129009458-84e37a77-76d6-4be3-b8a3-f70fe763826a.png)
+
+* dfjtyjytk
+* tykrjtdy
+* 
+
 ## Credits
 
 ### Code Content:
 
-* Navigtion bar is based on Love Running project.
-* Code for upload area is based on code from "HTML, CSS & Javascript in easy steps" by Mike McGrath (2020).
+* Navigtion bar and footer is based on Love Running project.
+* Code for upload area is based on code from the book "HTML, CSS & Javascript in easy steps" by Mike McGrath (2020).
+* Iframe code taken Google Map Generator.
 
 ### Images:
 
