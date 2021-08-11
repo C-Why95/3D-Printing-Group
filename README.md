@@ -8,11 +8,11 @@ People can upload their files to this site where they'll then recieve a quote by
 
 ## Credits
 
-### Code Content
+### Code Content:
 
 * Navigtion bar is based on Love Running project.
 * Code for upload area is based on code from "HTML, CSS & Javascript in easy steps" by Mike McGrath (2020).
 
-### Images
+### Images:
 
 *All pictures used in this project were taken from Google Images.
